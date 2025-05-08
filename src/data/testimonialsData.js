@@ -11,45 +11,45 @@ import boy3 from '../assets/svg/testimonials/boy3.svg'
 export const testimonialsData = [
     {
         id: 1,
-        name: 'Chandler Bing',
-        title: 'Transponster',
-        text: "Building my own portfolio could've never been easier than this. The only areas I'm good at are Math, Jokes and Dance.",
+        name: 'Rafael Zujur',
+        title: 'Colleague at Amazon',
+        text: "She is able to quickly understand a problem and implement a scalable and working solution by making appropriate tradeoffs between speed and risk.",
         image: boy2
     },
     {
         id: 2,
-        name: 'Monica Geller',
-        title: 'Head Chef',
-        text: "This is the only thing that I didn't have to spend time to sort out. It's tidy all by itself.",
+        name: 'Shivpriya Kaladar',
+        title: 'Colleague at Amazon',
+        text: " She makes sure she understands the customer problem with clarity before diving into solving it. She has good coding skills and can handle operational issues with ease. ",
         image: girl2
     },
     {
         id: 3,
-        name: 'Phoebe Buffay',
-        title: 'Massuese',
-        text: "Heard of the song 'Smelly Cat!!' ? This website made it viral. Plus portfolio is the only thing that Ursula doesn't have :)",
-        image: girl1
-    },
-    {
-        id: 4,
-        name: 'Joey Tribbiani',
-        title: 'Actor',
-        text: "Making my portfolio with this helped me get my role as 'Dr. Drake Ramoray' in 'Days Of Our Lives'. You guys are the best !",
+        name: 'Ryan Tjitro',
+        title: 'Colleague at Amazon',
+        text: "She eagerly volunteers to take on unfamiliar tasks and will drive them to closure, no matter the blockers she faces.",
         image: boy1
     },
     {
+        id: 4,
+        name: 'Keirith Atwal',
+        title: 'Colleague at Amazon',
+        text: "Jayati is a hard working devoted SDE, who is easy to work with and learns new technology quickly.",
+        image: boy2
+    },
+    {
         id: 5,
-        name: 'Rachel Green',
-        title: 'Sales Executive',
-        text: 'Ralph Lauren was one of the best things that ever happened to me. My portfolio made that dream happen. I owe you guys.',
+        name: 'Samhitha Ravichandra',
+        title: 'Colleague at Outset Medical',
+        text: 'Jayati played a key role in multiple software releases. Her quick and efficient bug fixes ensured a smooth user experience.',
         image: girl3
     },
     {
         id: 6,
-        name: 'Ross Geller',
-        title: 'Paleontologist',
-        text: "Be it 'Rocks' or 'Bones', you need a website to display it. This is it. Great work guys !",
-        image: boy3
+        name: 'Daniela Zacarías Amaro',
+        title: 'Colleague at Outset Medical',
+        text: "She has amazing troubleshooting skills, not only with development issues but also in solving problems at the infrastructure/operational level. ",
+        image: girl1
     }
 ]
 
