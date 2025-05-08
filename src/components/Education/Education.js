@@ -22,6 +22,7 @@ function Education() {
                             id={edu.id}
                             institution={edu.institution}
                             course={edu.course}
+                            extra_course={edu.extra_course}
                             startYear={edu.startYear}
                             endYear={edu.endYear}
                         />
